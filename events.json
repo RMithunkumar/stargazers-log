@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "octocat/Hello-World",
+    "description": "My first repository on GitHub!",
+    "language": "JavaScript",
+    "stars": 2847,
+    "starredAt": "2026-06-12T10:15:00Z",
+    "url": "https://github.com/octocat/Hello-World"
+  },
+  {
+    "id": 2,
+    "name": "torvalds/linux",
+    "description": "Linux kernel source tree",
+    "language": "C",
+    "stars": 189000,
+    "starredAt": "2026-07-03T14:42:00Z",
+    "url": "https://github.com/torvalds/linux"
+  },
+  {
+    "id": 3,
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "stars": 168000,
+    "starredAt": "2026-07-20T09:05:00Z",
+    "url": "https://github.com/microsoft/vscode"
+  },
+  {
+    "id": 4,
+    "name": "git-lfs/git-lfs",
+    "description": "Git extension for versioning large files",
+    "language": "Go",
+    "stars": 12800,
+    "starredAt": "2026-08-01T18:27:00Z",
+    "url": "https://github.com/git-lfs/git-lfs"
+  },
+  {
+    "id": 5,
+    "name": "NVIDIA/jetson-utils",
+    "description": "Utilities for NVIDIA Jetson deployment",
+    "language": "C++",
+    "stars": 3200,
+    "starredAt": "2026-08-22T07:50:00Z",
+    "url": "https://github.com/NVIDIA/jetson-utils"
+  }
+]
